@@ -1,2 +1,0 @@
-this is the stage
-this is the unstaged
